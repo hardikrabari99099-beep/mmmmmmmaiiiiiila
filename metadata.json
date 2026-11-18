@@ -1,0 +1,6 @@
+{
+  "name": "SheetMail",
+  "description": "Send personalized bulk emails directly from Excel and CSV spreadsheets using Gmail or SMTP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
